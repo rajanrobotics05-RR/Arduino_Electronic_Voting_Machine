@@ -179,3 +179,5 @@ Project Category: Arduino / Embedded Systems / Electronics
 Controller: Arduino Uno
 
 Programming Language: C / C++ (Arduino)
+
+![Rajan Robotics Electronic Voting Machine](RR_Arduino_Voting_Machine.png)
